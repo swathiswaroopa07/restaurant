@@ -1,0 +1,16 @@
+.rest{
+    
+font-family: 'Times New Roman', Times, serif;
+    /* border-bottom: 2px double; */
+    width:220px;
+   
+}
+.head{
+    /* background-color: black; */
+    
+    background-image: linear-gradient(180deg, rgb(247, 210, 215),rgb(255, 255, 255),rgb(244, 225, 228));
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
